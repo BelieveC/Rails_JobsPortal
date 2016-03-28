@@ -4,7 +4,7 @@
 Features of the App
 ---------------------
 
-* [Index](https://raw.githubusercontent.com/BelieveC/Rails_JobsPortal/master/PreviewImages/index.png)
+* [Index(With Jobs Categorized in Different Categories)](https://raw.githubusercontent.com/BelieveC/Rails_JobsPortal/master/PreviewImages/index.png)
 * [New](https://raw.githubusercontent.com/BelieveC/Rails_JobsPortal/master/PreviewImages/new.png)
 * [Show](https://raw.githubusercontent.com/BelieveC/Rails_JobsPortal/master/PreviewImages/show.png)
 * [Edit](https://raw.githubusercontent.com/BelieveC/Rails_JobsPortal/master/PreviewImages/edit.png)
